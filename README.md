@@ -1,2 +1,2 @@
 # arduinorfidlock
-The code for the RFID lock.
+The custom made code for "Viaan Jindal's" RFID lock.
